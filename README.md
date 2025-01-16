@@ -14,4 +14,4 @@ The Swadeshi store wants to create an annual sales report for 2022. So that, the
 - Relation between age and gender based on number of orders.
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
-Percentage of Total Orders delivered
+- Percentage of Total Orders delivered
