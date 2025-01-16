@@ -15,3 +15,18 @@ The Swadeshi store wants to create an annual sales report for 2022. So that, the
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
+  
+- Dashboard Interaction <a href="https://github.com/shreya-insights/Data-Analysis-Dashboard/blob/main/Swadeshi%20Store%20(dashboard).xlsx">View Dashboard</a>
+
+
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, and data format and value used.
+- Created pivot tables according to the question asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Processed Dataset
+- <a href="https://github.com/shreya-insights/Data-Analysis-Dashboard/blob/main/Swadeshi%20Store%20(processed%20data).xlsx">Processed Dataset</a>
+
+## Dashboard 
+![image](https://github.com/user-attachments/assets/da4ca666-e4cd-42ce-9a99-8889657a8a69)
